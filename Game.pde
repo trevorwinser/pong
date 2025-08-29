@@ -135,7 +135,7 @@ class Game {
     text("Left player controls", x, y + line++ * 40);
     text("   w to move up, s to move down", x, y + line++ * 40);
     line++;
-    text("Left player controls", x, y + line++ * 40);
+    text("Right player controls", x, y + line++ * 40);
     text("   up-arrow to move up, down-arrow to move down", x, y + line++ * 40);
   }
 
